@@ -1,3 +1,9 @@
+
+
+#main-navbar{
+  background-color: blue;
+  overflow: hidden;
+}
 #navbar-container{
   float:left;
   width: 100%;
@@ -5,11 +11,6 @@
 }
 #onpage{
   text-decoration: underline overline;
-}
-
-#main-navbar{
-  background-color: blue;
-  overflow: hidden;
 }
 #main-navbar ul{
   list-style-type: none;
